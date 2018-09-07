@@ -8,7 +8,7 @@ Ashkan Yousefpour, Caleb Fung, Tam Nguyen, Krishna Kadiyala, Fatemeh Jalali, Ami
 
 ----
 
-<img src="images/fog-wordcloud.png" width="600"><img src="images/taxonomy.png" width="300">
+<img src="images/fog-wordcloud.png" width="600"><img src="images/taxonomy.png" width="400">
 
 ----
 ----
