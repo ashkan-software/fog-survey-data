@@ -1,0 +1,18 @@
+Overall Category,Count
+Surveys,24
+Definition & Standards,31
+Architectures and Frameworks for Fog,72
+Concepts and Frameworks using Fog,27
+Programing Model / Platform,23
+Infrastructure Design,17
+Resource Analysis and Estimation,18
+Service Provisioning (Orchestration & Migration),37
+Placement (VM/Service/Operator/Cache) ,35
+Control or Monitoring (including SDN/NFV),24
+"Task Scheduling, offloading, and Load Balancing",56
+Resource Discovery & Selection,20
+Algorithms & Applications,69
+Software / Tools / Testbeds,25
+Testbeds & Experiments,33
+Security & Privacy,40
+Hardware / Protocol Stack,27

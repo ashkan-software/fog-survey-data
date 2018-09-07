@@ -1,0 +1,14 @@
+Objective,Explanation,Example
+QoS,"The proposed scheme deals with improving the Quality of Service or quality of experience (e.g. by minimizing or controlling latency, success rate, etc.) in the fog","Algorithms for enabling real-time applications, migration engines, task offloading, dynamic fog service provisioning"
+Cost,"The work considers cost parameters, such as operational cost or capital cost, in the proposed scheme. ","Cost-aware replica placement, cost estimation or capacity planning for designing a fog network"
+Energy,The authors analyzes the energy consumption or power in the paper.,"Energy-aware computation offloading, Energy-aware mobility management, federation of constrained devices"
+Bandwidth,(efficiency) The paper discusses and proposes algorithms that affect bandwidth and throughput using fog computing,"Fog resource sharing, in-network processing, edge analytics, capacity planning for designing a fog network"
+Security,"Security and privacy aspects of fog computing are considered in these studies. These include vulnerabilities, security mechanisms, privacy issues, and security protocols (e.g.authentication).","Anomaly detection using fog, location privacy, authentication schemes for fog nodes."
+Foundation,The fundamental and foundations of fog computing are discussed in these papers. ,"Surveys, standards, reference architectures, reference frameworks"
+RAS,"Reliability, Availability, Survivability. The proposed scheme improves the reliability, availability or survivability of the fog, or uses fog to provide/improve the reliability, availability or survivability, in event of a network/node failure.","Survivable replica placement, availability analysis of fog services "
+Mobility,The paper considers mobility of IoT devices  ,"Mobility-aware fog node placement, service migration based on mobility. mobility-aware service placement"
+Scalability,The proposed scheme can efficiently scale to the large magnitude of IoT networks.,"Edge analytics, computation offloading and task assignment (not per task)"
+Heterogeneity,"The algorithms and frameworks in the paper do not assume any particular type of node or network. Nodes in fog networks are heterogeneous in terms of computation, storage, and networking capabilities. 
+","Cloud of things, computation offloading among fog nodes, federation of fog nodes or IoT nodes"
+Management,"The paper proposes a management, monitoring, or federation scheme, where fog nodes, (or IoT nodes) are managed, monitored or federated using some method of management (e.g. SDN).","SDN-enabled control of fog nodes, fog operating system, orchestration of IoT services on fog nodes, orchestration of fog nodes"
+Programmability ,"The proposed framework is a programming language, programming framework or data modeling for fog computing.","fog YANG models, distributed data flow for fog, PaaS for fog"
